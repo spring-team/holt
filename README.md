@@ -42,3 +42,5 @@ I believe in you. You can do the thing!
 As I say yes to life, life says yes to me.
 
 It’s only a thought, and a thought can be changed.
+
+I come from the loving space of my heart, and I know that love opens all doors.

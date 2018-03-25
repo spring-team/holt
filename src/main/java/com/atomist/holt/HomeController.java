@@ -1,3 +1,5 @@
+// You are the delta in what you do, not the things you did in the past
+
 package com.atomist.holt;
 
 import org.springframework.web.bind.annotation.RequestMapping;
